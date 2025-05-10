@@ -1,0 +1,9 @@
+user_id,movie_id,movie_title,genre,rating
+1,101,Inception,Sci-Fi,5
+1,102,Titanic,Romance,4
+2,101,Inception,Sci-Fi,4
+2,103,Avengers,Action,5
+3,102,Titanic,Romance,3
+3,104,Interstellar,Sci-Fi,5
+4,105,Joker,Drama,4
+5,101,Inception,Sci-Fi,4
